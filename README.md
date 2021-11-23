@@ -1,5 +1,5 @@
 ## NLW Together - Origin Six
-- Curso da maratona NLW Together - Origin, Discover da **Rocketseat** tecnologia HTML5, CSS3 é JavaScript.
+- Projeto da maratona NLW Together - Origin, Discover da **Rocketseat** tecnologia HTML5, CSS3 é JavaScript.
 ### Instrutor
 - Maiky Brito
 ### Links
